@@ -61,7 +61,7 @@ atom_feed:
   hide: # true, false (default)
 search: true
 search_full_content: true
-search_provider: # lunr (default), algolia, google
+search_provider: google
 lunr:
   search_within_pages: # true, false (default)
 algolia:
@@ -148,7 +148,7 @@ footer:
     # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/__mxxixxe"
+      url: "https://instagram.com/___mxxixxe"
 
 # Reading Files
 include:
