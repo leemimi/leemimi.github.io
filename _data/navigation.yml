@@ -14,3 +14,15 @@ main:
 # 1. _includes/nav_list_main 에서 코드를 추가한다.
 # sidebar.html 에서 머릿말에 sidebar_main = true 를 해주면 nav_list_main 을 불러오게끔 마지막 부분에 코딩이 되어있다.
 # 2. pages/catecory 에 연결할 카테고리 페이지를 추가한다.
+sidebar-category:
+  - title: "데이터 분석"
+    children:
+      - title: "빅데이터분석기사"
+        url: "/bigdata"
+        category: "bigdata"
+
+  - title: "💻 Coding Test 💻"
+    children:
+      - title: "프로그래머스"
+        url: "/programmers"
+        category: "programmers"
