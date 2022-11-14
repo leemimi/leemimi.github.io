@@ -3,7 +3,8 @@ title: "프로그래머스 문제풀이"
 layout: archive
 permalink: categories/programmers
 author_profile: true
-sidebar_main: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.Programmers %}

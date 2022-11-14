@@ -3,7 +3,8 @@ title: "빅데이터분석기사_실기"
 layout: archive
 permalink: categories/bigdata
 author_profile: true
-sidebar_main: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.bigdata %}
