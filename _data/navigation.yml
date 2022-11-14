@@ -8,10 +8,10 @@ sidebar-category:
   - title: "데이터 분석"
     children:
       - title: "빅데이터분석기사"
-        url: "/bigdata"
+        url: "categories/bigdata"
         category: "bigdata"
   - title: "💻 Coding Test 💻"
     children:
       - title: "프로그래머스"
-        url: "/programmers"
+        url: "categories/programmers"
         category: "programmers"
